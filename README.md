@@ -1,4 +1,4 @@
-# medical mask detection and classification
+# Medical mask detection and classification
 Medical Mask Detection and Classification with MTCNN tensorflow 
 
 This code detects humans' faces and classifies it to one of 3 classes: 
