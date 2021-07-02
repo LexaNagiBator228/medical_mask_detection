@@ -1,0 +1,4 @@
+model_checkpoint_path: "pnet-3300000"
+all_model_checkpoint_paths: "pnet-3100000"
+all_model_checkpoint_paths: "pnet-3200000"
+all_model_checkpoint_paths: "pnet-3300000"
